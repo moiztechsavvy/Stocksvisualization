@@ -1,4 +1,5 @@
 # Stocksvisualization
+*This Project uses JPMORGANS https://github.com/finos/perspective Library TypeScript, React, and Python to Create a user Interface for visualizing Stock Data*
  *Inside of the project Directory Open terminal*
 
 - Install node Package Manager(npm)
